@@ -1,6 +1,6 @@
-# ABC Analysis for Global Super Store
+# ABC Analysis for Inventory Management
 
-In this project I want to demonstrate my ability to perform ABC analysis to segment customers using SQL. The analysis is done in Excel. 
+In this project, I want to demonstrate my ability to perform ABC analysis to segment customers using SQL. The analysis is done in Excel. 
 
 ## Description of Dataset
 
